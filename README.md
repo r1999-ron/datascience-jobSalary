@@ -30,5 +30,8 @@ The first thing that we clean is the data science salary. We need to make sure t
 
 I went through and looked to see if the postings had python, r-studio, spark, aws, or excel listed and added those as features. 
 
+## EDA 
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+
 
 
