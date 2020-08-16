@@ -48,9 +48,9 @@ I tried three different models:
  
 ## Model Performance:
   The Random Forest model far outperformed the other approaches on the test and validation sets.
-     * Random Forest : MAE = 11.22
-     * Linear Regression: MAE = 18.86
-     * Ridge Regression: MAE = 19.67
+     *  Random Forest :  MAE = 11.22
+     *  Linear Regression:  MAE = 18.86
+     *  Ridge Regression: MAE = 19.67
 
 ## Productionization:
    In this step, I built a flask API endpoint that was hosted on a local webserver . The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
