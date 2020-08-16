@@ -32,7 +32,7 @@ I went through and looked to see if the postings had python, r-studio, spark, aw
 
 ## EDA 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+![salary_by_job_title](https://user-images.githubusercontent.com/55063393/90340414-aaa38680-e015-11ea-9e15-c1e1638c3354.PNG)
 
-
-![positions_by_state](https://user-images.githubusercontent.com/55063393/90340438-d0309000-e015-11ea-9182-f1f7a709c181.png)
+  ![positions_by_state](https://user-images.githubusercontent.com/55063393/90340438-d0309000-e015-11ea-9182-f1f7a709c181.png)
 
