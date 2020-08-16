@@ -34,4 +34,5 @@ I went through and looked to see if the postings had python, r-studio, spark, aw
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
 
+![positions_by_state](https://user-images.githubusercontent.com/55063393/90340438-d0309000-e015-11ea-9182-f1f7a709c181.png)
 
